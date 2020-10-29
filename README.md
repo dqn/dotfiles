@@ -6,8 +6,8 @@ My dotfiles.
 
 ## Prerequisites
 
-- Git
-- Fish
+- git
+- fish
 
 ## Installation
 
