@@ -1,5 +1,7 @@
 # dotfiles
 
+[![status](https://github.com/dqn/dotfiles/workflows/CI/badge.svg)](https://github.com/dqn/dotfiles/actions)
+
 My dotfiles.
 
 ## Prerequisites

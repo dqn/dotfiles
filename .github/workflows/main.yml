@@ -1,0 +1,13 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Clone
+        run: git clone https://github.com/dqn/dotfiles.git ~/dotfiles
+      - name: Install
+        run: bash ~/dotfiles/install.sh
